@@ -13,6 +13,9 @@ Trabajo práctico de automatización de pruebas con Cypress para el módulo de S
 
 Los siguientes bugs fueron encontrados con el usuario `problem_user` y reportados en Trello:
 
+💡 Nota sobre los enlaces a Trello
+Al hacer clic en los enlaces de las tarjetas, GitHub los abrirá en la misma pestaña y saldrás del repositorio. Para evitarlo, te recomendamos hacer clic derecho sobre el enlace y seleccionar "Abrir en una nueva pestaña" (o "Abrir enlace en pestaña nueva", según tu navegador). Así mantenés el README a la vista mientras revisás los bugs en Trello.
+
 - BUG-SAUCEDEMO-001 - https://trello.com/c/uBLV8H2O - Imágenes de productos incorrectas
 - BUG-SAUCEDEMO-002 - https://trello.com/c/hSpwjt1b - Ordenar productos por precio no funciona
 - BUG-SAUCEDEMO-003 - https://trello.com/c/Eev928tv - Campo Last Name no acepta texto
