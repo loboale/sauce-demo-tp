@@ -19,7 +19,7 @@ Los siguientes bugs fueron encontrados con el usuario `problem_user` y reportado
 
 ## 🔗 Link al tablero de Trello
 
-[Tablero Sauce Demo - TP](https://trello.com/b/...)
+[Tablero Sauce Demo - TP](https://trello.com/invite/b/6a17eb008aa75c0913cae7d1/ATTIa929d823544ebd63265510b45555fad9A93DDCFF/sauce-demo)
 
 ## 🚀 Cómo ejecutar los tests
 
