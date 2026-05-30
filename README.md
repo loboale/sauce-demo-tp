@@ -22,14 +22,14 @@ Al hacer clic en los enlaces de las tarjetas, GitHub los abrirá en la misma pes
 
 ## 🔗 Link al tablero de Trello
 
-📄 Reportes de Bugs (PDF)
+[Tablero Sauce Demo - TP](https://trello.com/invite/b/6a17eb008aa75c0913cae7d1/ATTIa929d823544ebd63265510b45555fad9A93DDCFF/sauce-demo)
+
+## 📄 Reportes de Bugs (PDF)
 Además de los tickets de Trello, se incluyen los reportes formales en formato PDF en la carpeta `reportes-de-bugs/`:
 
 - [BUG-SAUCEDEMO-001 - Imágenes de productos incorrectas](reportes-de-bugs/Template%20de%20reporte%20de%20bugs%20-%20BUG-SAUCEDEMO%20-%20001%20-%20Imágenes%20de%20productos%20incorrectas%20con%20problem_user.pdf)
 - [BUG-SAUCEDEMO-002 - Ordenar productos por precio no funciona](reportes-de-bugs/Template%20de%20reporte%20de%20bugs%20-%20BUG-SAUCEDEMO%20-%20002%20-%20Ordenar%20productos%20por%20precio%20no%20funciona%20con%20problem_user%20.pdf)
 - [BUG-SAUCEDEMO-003 - Campo Last Name no acepta texto](reportes-de-bugs/Template%20de%20reporte%20de%20bugs%20-%20BUG-SAUCEDEMO%20-%20003%20-%20Campo%20Last%20Name%20no%20acepta%20texto%20con%20problem_user.pdf)
-
-[Tablero Sauce Demo - TP](https://trello.com/invite/b/6a17eb008aa75c0913cae7d1/ATTIa929d823544ebd63265510b45555fad9A93DDCFF/sauce-demo)
 
 ## 🚀 Cómo ejecutar los tests
 
